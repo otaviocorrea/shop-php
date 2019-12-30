@@ -90,7 +90,7 @@
     <!-- REQUIRED JS SCRIPTS -->
     
     <!-- jQuery 2.2.3 -->
-    <script src="../res/adminplugins/jQuery/jquery-2.2.3.min.js"></script>
+    <script adminplugins/jQuery/jquery-2.2.3.min.js"></script>
     <!-- Bootstrap 3.3.6 -->
     <script src="../res/adminbootstrap/js/bootstrap.min.js"></script>
     <!-- AdminLTE App -->
