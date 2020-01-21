@@ -4,10 +4,11 @@
     use \Hcode\Model;
     use \Hcode\DB\Sql;
 
-    const SESSION = "User";
-
+    
     class User extends Model {
-
+        
+        const SESSION = "User";
+        
         public static function login($login, $password){
             $sql = new Sql();
 
